@@ -1,5 +1,5 @@
-# mirai-console-plugin-template
+# mirai-hypixeldynamic-signatures
 
-[Mirai Console](https://github.com/mamoe/mirai-console) 插件模板, 使用 Kotlin + Gradle.
+一个用于检测Hypixel动态玩家信息的插件
 
-[如何使用](https://github.com/project-mirai/how-to-use-plugin-template)
+**WIP**
